@@ -8,5 +8,5 @@ int main()
    return 0;
 std::cin.ignore();
 std::cin.get();
-//ya zabil pro nescol'ko etapov. prostite. nadeyus, tak sojdet?
+//nice one ver
 }
